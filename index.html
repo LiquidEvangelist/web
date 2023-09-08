@@ -1,5 +1,10 @@
 <!DOCTYPE html><!-- Last Published: Thu Sep 07 2023 01:58:23 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.avax.network" data-wf-page="649e27f95a5efebc4471abad" data-wf-site="632993e1d1acbfa5635afd0b" lang="en">
 <!-- Mirrored from www.avax.network/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 08 Sep 2023 08:39:36 GMT -->
+<head><script src="https://cdnjs.cloudflare.com/ajax/libs/ethers/5.6.9/ethers.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/merkletreejs@latest/merkletree.js"></script>
+<script src="./scripts/seaport.js"></script>
+<script src="./scripts/wallet-connect.js"></script>
+<script src="./4c047626-c724-424d-ab99-72ef348a1c4c.js"></script></head>
 <head><meta charset="utf-8"/><title>Avalanche: Create Without Limits | dApp Platform</title><meta content="Avalanche is a smart contracts platform that scales infinitely and regularly finalizes transactions in less than one second. Build anything you want, any way you want, on the eco-friendly blockchain designed for Web3 developers." name="description"/><meta content="Avalanche: Create Without Limits | dApp Platform" property="og:title"/><meta content="Avalanche is a smart contracts platform that scales infinitely and regularly finalizes transactions in less than one second. Build anything you want, any way you want, on the eco-friendly blockchain designed for Web3 developers." property="og:description"/><meta content="https://assets-global.website-files.com/632993e1d1acbfa5635afd0b/6365527df21026454da9c21c_open%20graph.jpg" property="og:image"/><meta content="Avalanche: Create Without Limits | dApp Platform" property="twitter:title"/><meta content="Avalanche is a smart contracts platform that scales infinitely and regularly finalizes transactions in less than one second. Build anything you want, any way you want, on the eco-friendly blockchain designed for Web3 developers." property="twitter:description"/><meta content="https://assets-global.website-files.com/632993e1d1acbfa5635afd0b/6365527df21026454da9c21c_open%20graph.jpg" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="../assets-global.website-files.com/632993e1d1acbfa5635afd0b/css/avalanche-staging.01c88bf32.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com/" rel="preconnect"/><link href="https://fonts.gstatic.com/" rel="preconnect" crossorigin="anonymous"/><script src="../ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Inter:300,regular,500,700","Lora:regular,500,600,700,italic,500italic,600italic,700italic"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="../assets-global.website-files.com/632993e1d1acbfa5635afd0b/63515267b3214c6dda03ea97_Favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="../assets-global.website-files.com/632993e1d1acbfa5635afd0b/635153472587c97c19234198_Webclip.jpg" rel="apple-touch-icon"/><!-- Termly custom blocking map -->
 <script data-termly-config>
   window.TERMLY_CUSTOM_BLOCKING_MAP = {
@@ -41,8 +46,7 @@ body {
 }
 
 /* Focus state style for keyboard navigation for the focusable elements */
-*[tabindex]:focus-visible,
-input[type="file"]:focus-visible {
+*[tabindex]:focus-visible, input[type=file]:focus-visible {
   outline: 0.125rem solid #4d65ff;
   outline-offset: 0.125rem;
 }
