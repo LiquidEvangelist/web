@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 Sep 2023 10:39:35 at https://www.avax.network +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.avax.network -O1 "C:\My Web Sites\avax001" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:39:56	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.avax.network/)
+10:40:35	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/snow-report-archive (from https://www.avax.network/)
+10:42:53	Error: 	"Forbidden" (403) at link https://assets-global.website-files.com/635baa246e4126e3bd30bcd2/635baa246e412668a430bd20_gallery-image-1-min.jpg (from https://www.avax.network/get-started)
+10:42:53	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/top-crypto-games-on-avalanche (from https://www.avax.network/get-started)
+10:42:57	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/evergreen-block-report (from https://www.avax.network/evergreen)
+10:42:57	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/meld-leverages-avalanches-subnet-technology-to-enhance-its-defi-offerings (from https://www.avax.network/evergreen)
+10:43:02	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/snow-report-archive (from https://www.avax.network/)
+10:43:06	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/category/institutions (from https://www.avax.network/blog)
+10:43:18	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/category/gaming (from https://www.avax.network/blog)
+10:43:18	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/category/enterprise (from https://www.avax.network/blog)
+10:43:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/category/education (from https://www.avax.network/blog)
+10:43:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/category/developers (from https://www.avax.network/blog)
+10:43:39	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/category/platform (from https://www.avax.network/blog)
+10:43:40	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/artist-spotlight-three-avalanche-creators-drawing-the-nft-future (from https://www.avax.network/blog)
+10:43:45	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/dexalot-subnet-earns-avalanche-multiverse-incentives-of-up-to-3-million (from https://www.avax.network/blog)
+10:43:48	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/artist-spotlight-creators-expanding-nft-possibilities (from https://www.avax.network/blog)
+10:44:00	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/elastic-era-considerations-for-subnet-builders (from https://www.avax.network/blog)
+10:44:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/avalanche-watch-july-edition (from https://www.avax.network/blog)
+10:44:06	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/blockpay-aims-to-bring-blockchain-payments-to-the-masses (from https://www.avax.network/blog)
+10:44:09	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/artist-spotlight-the-evolution-of-music-nfts (from https://www.avax.network/blog)
+10:44:21	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/balancer-deploys-on-avalanche (from https://www.avax.network/blog)
+10:44:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/artist-spotlight-the-next-generation-of-nft-photographers (from https://www.avax.network/blog)
+10:44:30	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/global-artist-network-hug-embraces-avalanche-foundation (from https://www.avax.network/blog)
+10:44:30	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/uniswap-amm-pioneer-and-the-largest-dex-launches-on-avalanche (from https://www.avax.network/blog)
+10:44:41	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/avalanche-watch-june-edition (from https://www.avax.network/blog)
+10:44:43	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/avaissance-artist-roundtable-mentors-changing-the-nft-world (from https://www.avax.network/blog)
+10:44:51	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/builder-spotlight-eric-forgy-multiswap-future-of-capital-markets (from https://www.avax.network/blog)
+10:44:51	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.avax.network/blog/struct-finance-launches-interest-rate-products-for-institutions-and-retail-on-avalanche (from https://www.avax.network/blog)
+10:45:04	Warning: 	Retry after error 504 (Gateway Time-out) at link https://www.avax.network/blog/coinbase-users-now-have-the-fastest-path-from-cash-to-defi-with-native-usdc-on-avalanche (from https://www.avax.network/blog)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 30 seconds : 276 links scanned, 246 files written (91523839 bytes overall) [87371099 bytes received at 264760 bytes/sec], 5405194 bytes transferred using HTTP compression in 41 files, ratio 20%, 5.0 requests per connection
+(2 errors, 27 warnings, 0 messages)
